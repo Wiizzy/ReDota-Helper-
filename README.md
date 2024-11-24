@@ -8,7 +8,7 @@
 ![image](https://github.com/user-attachments/assets/a2dab82f-0271-4206-b7eb-76d8feffe28d)
 
 ### 1. Профиль
-- Авторизуйтесь, чтобы получить доступ к персонализированным настройкам.  
+- Авторизуйтесь, чтобы получить доступ к дополнительным функциям.  
 ![image](https://github.com/user-attachments/assets/a0e58e88-d8f9-4aaa-a53d-90960cd894d8)
 
 
