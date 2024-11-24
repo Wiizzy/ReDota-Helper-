@@ -53,7 +53,7 @@
 ## Контакты
 - **Автор**: Wiizzy  
 - **GitHub**: [Wiizzy](https://github.com/Wiizzy)  
-- **Email**: [email@example.com](mailto:email@example.com)
+- **Telegram**: [t.me](https://t.me/pgryo)
 
 ---
 
