@@ -1,0 +1,122 @@
+/* Основные стили для окна */
+QMainWindow {
+    background-color: #1e1e1e;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+}
+
+/* Стили для вкладок */
+QTabWidget::pane {
+    border: 1px solid #555;
+    background-color: #1e1e1e;
+}
+
+QTabBar::tab {
+    background: #2c2c2c;
+    color: #ffffff;
+    border: 1px solid #444;
+    padding: 10px;
+    font-size: 14px;
+    min-width: 120px;
+}
+
+QTabBar::tab:selected {
+    background: #4CAF50;
+    color: white;
+}
+
+QTabBar::tab:hover {
+    background: #3d3d3d;
+}
+
+/* Стили для меток */
+QLabel {
+    font-size: 16px;
+    color: #ffffff;
+}
+
+/* Стили для кнопок */
+QPushButton {
+    background-color: #4CAF50;
+    color: white;
+    border-radius: 5px;
+    font-size: 14px;
+    padding: 8px;
+}
+
+QPushButton:hover {
+    background-color: #45a049;
+}
+
+QPushButton:pressed {
+    background-color: #388e3c;
+}
+
+/* Стили для чекбоксов */
+QCheckBox {
+    color: white;
+    font-size: 14px;
+}
+
+/* Стили для поля ввода (QLineEdit) */
+QLineEdit {
+    background-color: #2c2f36;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+QLineEdit::placeholder {
+    color: #a9a9a9;
+}
+
+/* Стили для окна сообщения (QMessageBox) */
+QMessageBox {
+    background-color: #2c2f36;
+    color: white;
+}
+
+QMessageBox QPushButton {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+QMessageBox QPushButton:hover {
+    background-color: #45a049;
+}
+
+QMessageBox QPushButton:pressed {
+    background-color: #388e3c;
+}
+
+/* Минималистичный стиль для QLineEdit */
+QLineEdit {
+    background-color: #222;
+    color: #E0E0E0;
+    border: 1px solid #444;
+    border-radius: 4px;
+    padding: 4px 8px;
+    font-size: 14px;
+}
+
+/* Минималистичный стиль для QComboBox */
+QComboBox {
+    background-color: #222;
+    color: #E0E0E0; /* Цвет текста в закрытом списке */
+    border: 1px solid #444;
+    border-radius: 4px;
+    padding: 4px 8px;
+    font-size: 14px;
+}
+
+/* Цвет текста внутри раскрытого списка */
+QComboBox QAbstractItemView {
+    background-color: #333; /* Фон раскрытого списка */
+    color: #E0E0E0;        /* Цвет текста в раскрытом списке */
+    border: 1px solid #444;
+    selection-background-color: #555; /* Фон выбранного элемента */
+    selection-color: #FFFFFF;        /* Цвет текста выбранного элемента */
+}
