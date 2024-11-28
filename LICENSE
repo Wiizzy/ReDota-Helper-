@@ -1,26 +1,10 @@
-MIT License
+Авторские права (c) 2024 Wiizzy
 
-Copyright (c) 2024 Wiizzy
+Настоящим предоставляется бесплатное разрешение любому лицу, получившему копию этого программного обеспечения и сопутствующих документационных файлов (далее «Программное обеспечение»), использовать Программное обеспечение без ограничений, включая, но не ограничиваясь правами на использование, копирование, модификацию, слияние, публикацию, распространение, сублицензирование и/или продажу копий Программного обеспечения, а также на разрешение лицам, которым Программное обеспечение предоставлено, делать это, с учетом следующих условий:
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Вышеуказанное уведомление об авторских правах и это уведомление о разрешении должны быть включены во все копии или существенные части Программного обеспечения.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
----
+Программное обеспечение предоставляется «КАК ЕСТЬ», без каких-либо гарантий, явных или подразумеваемых, включая, но не ограничиваясь гарантиями товарной пригодности, пригодности для конкретной цели и отсутствия нарушений прав. В ЛЮБОМ СЛУЧАЕ АВТОРЫ ИЛИ ВЛАДЕЛЬЦЫ АВТОРСКИХ ПРАВ НЕ НЕСУТ ОТВЕТСТВЕННОСТИ ЗА ЛЮБЫЕ ИСКИ, УЩЕРБЫ ИЛИ ДРУГИЕ ОБЯЗАННОСТИ, НЕЗАВИСИМО ОТ ТОВАРНЫХ, ДОГОВОРНЫХ ИЛИ ДРУГИХ ОСНОВАНИЙ, ВОЗНИКАЮЩИЕ ИЗ ИЛИ В СВЯЗИ С ПРИМЕНЕНИЕМ ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ ИЛИ ИНЫМИ ДЕЙСТВИЯМИ С ПРОГРАММНЫМ ОБЕСПЕЧЕНИЕМ.
 
 Важное уведомление:
 
@@ -28,4 +12,30 @@ SOFTWARE.
 
 Программа не предназначена для использования в коммерческих или иных целях, кроме как для личного использования в игровой среде. Распространение программы в любых иных формах, кроме как через официальные каналы GitHub, запрещено.
 
+Любое извлечение из формата .exe в .py файл будет расценено как нарушение авторских прав и повлечет за собой последствия.
+
 Если у вас возникнут вопросы или сомнения по поводу использования программы, пожалуйста, свяжитесь с автором через t.me на главной странице.
+
+
+MIT License
+
+Copyright (c) 2024 Wiizzy
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+Important Notice:
+
+This program is provided for entertainment purposes only. It does not contain any viruses or malicious files and does not violate security policies.
+
+The program is not intended for commercial or other purposes, except for personal use in a gaming environment. Distribution of the program in any form, other than through official GitHub channels, is prohibited.
+
+Any extraction from .exe format into .py file will be considered a violation of copyright and will have legal consequences.
+
+If you have any questions or concerns about the use of the program, please contact the author via t.me on the main page.
+
+MIT Лицензия
+
